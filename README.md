@@ -44,15 +44,11 @@ To leverage my background in Cybersecurity by designing and implementing secure,
 
 <h2>👨‍💻 Cybersecuirty Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Project](https://github.com/wbj901/AD-Active-Directory-Project)
 
 <h2>Certifications</h2>
 
 - [Security+](https://github.com/wbj901/certifications-/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
