@@ -39,7 +39,7 @@ Before moving into a technical support role , I spent over ten years in video an
 
 ## Objective
 
-To leverage my background in Cybersecurity to design and implement secure, automated, and compliant identity and access solutions. I aim to integrate IAM and SOC practices to strengthen enterprise security, reduce risks, and enable organizations to adopt zero-trust and cloud-first strategies effectively. 
+To leverage my background in Cybersecurity by designing and implementing secure, automated, and compliant identity and access solutions. I aim to integrate IAM and SOC practices to strengthen enterprise security, reduce risks, and enable organizations to adopt zero-trust and cloud-first strategies effectively. 
 
 
 <h2>👨‍💻 Cybersecuirty Projects:</h2>
