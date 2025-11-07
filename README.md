@@ -45,6 +45,7 @@ To leverage my background in Cybersecurity by designing and implementing secure,
 <h2>👨‍💻 Cybersecuirty Projects:</h2>
 
   - [Active Directory Project](https://github.com/wbj901/AD-Active-Directory-Project)
+  - [TPot Project](https://github.com/wbj901/TPot-Project)
 
 <h2>Certifications</h2>
 
